@@ -1,6 +1,5 @@
 ### Olá!! 👋
 
-Atualmente estudo JavaScript e CSS3 para me tornar um desenvolvedor front-end e futuramente mobile!
 
 ### Tecnologias
 
